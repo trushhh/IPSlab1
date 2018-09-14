@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Some another test
 
 
@@ -6,6 +5,3 @@ asdasdasda
 
 
 Some wrong data
-=======
-Some another test
->>>>>>> parent of 33f9e0a... Make some changes in test2
