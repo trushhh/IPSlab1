@@ -1,10 +1,6 @@
 test 111
 test 2 
 
-<<<<<<< HEAD
-test 3
-=======
 test 3
 
 test 4
->>>>>>> b78f5b35881dd9bc7a87fff5c1dfde2632089ea1
